@@ -1,0 +1,18 @@
+.logo {
+    height: 150px;
+    width: 150px;
+}
+
+body {
+    text-align: center;
+}
+.test_image_and_result {
+    float: none;
+    width: 750px;
+    height: 330px;
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 10px 10px 10px black;
+}
